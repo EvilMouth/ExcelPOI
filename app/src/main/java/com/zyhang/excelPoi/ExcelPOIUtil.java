@@ -36,9 +36,9 @@ import java.util.Locale;
  * Modify remark:
  */
 
-public class ExcelPoiUtil {
+public class ExcelPOIUtil {
 
-    private static final String TAG = "ExcelPoiUtil";
+    private static final String TAG = "ExcelPOIUtil";
 
     /**
      * 读Excel
